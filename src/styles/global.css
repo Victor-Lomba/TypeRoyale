@@ -1,0 +1,17 @@
+:root {
+	--white: #f4f2f3;
+	--blue: #66ced6;
+	--green: #0cca4a;
+	--red: #d12332;
+}
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: "poppins";
+}
+
+input:focus {
+	outline: none;
+}
